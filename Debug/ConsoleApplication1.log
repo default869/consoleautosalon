@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\User\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(85,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(99,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(109,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(119,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(222,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
